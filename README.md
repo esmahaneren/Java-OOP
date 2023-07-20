@@ -1,8 +1,8 @@
-# Java-OOPJ
+# Java-OOP
  Object-Oriented Programming in Java
-Java eğitim serüvenimde almış olduğum çeşitli kurslar ve okumuş olduğum kitaplardan öğretici örnekler ve kendim yazdığım Java kodları bulunmaktadır.
+Java eğitim serüvenimde almış olduğum çeşitli kurslarda tamamladığım egzersizler, okumuş olduğum blog ve kitaplardan öğretici örnekler ,Java algoritma çalışmalarım bulunmaktadır.
 
-Java ile Nesne Merkezli Programlaya Giriş-Akın Kaldıroğlu
+Java ile Nesne Merkezli Programlamaya Giriş-Akın Kaldıroğlu
 Object-Oriented and Functional Programming in Java-Akın Kaldıroğlu
 Sıfırdan Komple Java Geliştirici Kursu- Mustafa Murat Çoşkun
 
